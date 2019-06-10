@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculatorTestProject
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{38E99BC1-836E-4C10-9F70-346EC71064D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{A0F62BE1-5C72-4A56-BB0B-830AA9BACD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismTestProject", "PolymorphismTestProject\PolymorphismTestProject.csproj", "{66E66612-1982-4004-9FA0-BE6AC4E81779}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{38E99BC1-836E-4C10-9F70-346EC71064D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E99BC1-836E-4C10-9F70-346EC71064D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E99BC1-836E-4C10-9F70-346EC71064D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F62BE1-5C72-4A56-BB0B-830AA9BACD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F62BE1-5C72-4A56-BB0B-830AA9BACD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F62BE1-5C72-4A56-BB0B-830AA9BACD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F62BE1-5C72-4A56-BB0B-830AA9BACD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E66612-1982-4004-9FA0-BE6AC4E81779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E66612-1982-4004-9FA0-BE6AC4E81779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E66612-1982-4004-9FA0-BE6AC4E81779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E66612-1982-4004-9FA0-BE6AC4E81779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
